@@ -1,0 +1,12 @@
+make.fun submission — The Best Advice I Ever Got
+Competition: u-pangg7-the-best-advice-i-ever-got-358cefb0
+Submission id: 01a214f2-40ec-7242-841d-84b2b3098732
+Receipt: 2026-11-25T23:02:30.372Z
+Repo: https://github.com/shelbyxxx1/best-advice-i-ever-got
+Commit: 7834c3ec0d891e34c3cd0aa3c9d2e725856a36b7
+Title: One sentence: the best advice I ever got
+Entry (160 chars incl. trailing newline):
+After I yelled at my son, Dad gave me the best advice I've had: say sorry without making him comfort you; he's sixteen now and still tells me when he's scared.
+Model: gpt-6.1-sol via Xingchi (Codex 0.80.0, old launcher)
+Kit check: 16 passed, 0 failed. Owner view: 29 checks, 27 pass, 0 fail.
+Dev grade: queued on the server at submit time; blind round 1 cutoff 2026-11-26T04:04:38Z.
